@@ -1,6 +1,6 @@
 # jlox: A Java Interpreter for the Lox Language
 
-![Language: Java](https://img.shields.io/badge/language-Java-blue.svg)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 
 This repository contains a full-featured Java implementation of the Lox programming language, built by following the excellent guide **["Crafting Interpreters"](https://craftinginterpreters.com/) by Robert Nystrom**. It features a hand-written scanner, a recursive descent parser, a static resolver for lexical scoping, and a tree-walk interpreter.
 
